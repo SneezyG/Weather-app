@@ -4,13 +4,13 @@ A CLI weather application with python.
 View weather and temperature information for different cities around the world right inside your CLI:
 
 ## requirements
-To run this CLI app, you need a modern installation of Python
-An api-key from (https://openweathermap.org)
+1. To run this CLI app, you need a modern installation of Python
+2. An api-key from (https://openweathermap.org)
 
 
 
 ## usage
-move to the repo root dir
+clone the project repo to your local machine
   ```bash
   git clone https://github.com/SneezyG/Weather-app
   ```
